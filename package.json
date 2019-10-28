@@ -1,0 +1,22 @@
+{
+  "name": "stagecode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "watch-ts": "tsc -w",
+    "watch-node": "nodemon dist/server.js",
+    "watch": "concurrently -k -p \"[{name}]\" -n \"TypeScript, Node\" -c \"yello.bold, cyan.bold\" \"yarn run watch-ts\" \"yarn run watch-node\""
+  },
+  "author": "ilhan",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^3.6.4"
+  },
+  "devDependencies": {
+    "@types/express": "^4.17.1",
+    "concurrently": "^5.0.0",
+    "express": "^4.17.1",
+    "nodemon": "^1.19.4"
+  }
+}
