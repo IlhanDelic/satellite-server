@@ -16,6 +16,7 @@
     }
   },
   "include": [
-    "src/**/*" //where all the soucre files are going
+    "src/**/*", //where all the soucre files are going
+    "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"
   ]
 }
