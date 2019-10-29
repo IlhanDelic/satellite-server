@@ -10,5 +10,5 @@ export let nice = (req: Request, res: Response) => {  // functie die "NICEEE" pr
 }
 
 export let wat = (req: Request, res: Response) => {
-    res.send("RTFM")
+    res.send("wat?")
 }
