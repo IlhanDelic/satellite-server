@@ -2,9 +2,9 @@
   "name": "stagecode",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
-  "source": "https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js",
+  "main": "server.js",
   "scripts": {
+    "start": "node ./dist/server.js",
     "watch-ts": "tsc -w",
     "watch-node": "nodemon dist/server.js",
     "watch": "concurrently -k -p \"[{name}]\" -n \"TypeScript, Node\" -c \"yello.bold, cyan.bold\" \"yarn run watch-ts\" \"yarn run watch-node\""
