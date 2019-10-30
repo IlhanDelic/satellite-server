@@ -10,4 +10,4 @@ app.get('/', controller.hi);
 app.get('/sum', controller.sum);
 app.post('/hello', controller.hello);
 
-app.listen(process.env.PORT, () => console.log("running"));
+app.listen(process.env.PORT || 5000, () => console.log("running"));
