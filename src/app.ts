@@ -7,6 +7,7 @@ app.get("/", (req: Request, res: Response, next: NextFunction) => {
 });
 
 app.get('/', controller.hi);
+app.get('/sum', controller.sum);
 app.post('/hello', controller.hello);
 
 app.listen(process.env.PORT, () => console.log("running"));
