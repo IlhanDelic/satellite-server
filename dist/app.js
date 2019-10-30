@@ -1,11 +1,11 @@
 "use strict";
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
 Object.defineProperty(exports, "__esModule", { value: true });
-const express = require("express");
-const statusController = require("./controllers/status");
-const app = express();
-app.set("port", process.env.PORT || 3000);
-app.get('/', statusController.hi); // get bij link/hi voer functie hi uit van status
-app.post('/nice', statusController.nice); // post bij link/nice en voer dan nice functie uit status uit
-app.post('/wat', statusController.wat);
-exports.default = app;
-//# sourceMappingURL=app.js.map
+var express_1 = __importDefault(require("express"));
+var app = express_1.default();
+app.get("/", function (req, res, next) {
+    res.send("hello");
+});
+app.listen(5000, function () { return console.log("running"); });
