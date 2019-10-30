@@ -11,6 +11,6 @@ export let hello =(req: Request, res: Response) => {
 };
 
 export let sum =(req: Request, res: Response) => {
-    console.log(add(9,9));
-    res.send("check your terminal");
+
+    res.send("check your terminal" + console.log(add(9,9)));
 };
