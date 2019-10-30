@@ -12,5 +12,5 @@ export let hello =(req: Request, res: Response) => {
 
 export let sum =(req: Request, res: Response) => {
 
-    res.send("check your terminal" + console.log(add(9,9)));
+    res.send("9 + 9 =" + add(9,9));
 };
