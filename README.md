@@ -15,7 +15,7 @@ The software is installed using:
 
 There are no configuration options. Start the server using:
 
-    node nodeClient.js
+    node src/nodeClient.js
 
 ## Copyright
 
