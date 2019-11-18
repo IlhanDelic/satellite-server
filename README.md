@@ -9,7 +9,7 @@ This server will pick up messages send by [central event server](https://github.
 
 The software is installed using:
 
-    npm install
+    npm install express
 
 # Setup
 
