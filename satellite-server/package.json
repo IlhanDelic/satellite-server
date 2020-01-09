@@ -1,0 +1,24 @@
+{
+  "name": "satellite-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/nodeClient.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/nodeClient.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IlhanDelic/satellite-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IlhanDelic/satellite-server/issues"
+  },
+  "homepage": "https://github.com/IlhanDelic/satellite-server#readme",
+  "dependencies": {
+    "eventsource": "1.0.7"
+  }
+}

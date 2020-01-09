@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1d0ff919-54cb-4721-b758-76b1b3d9addd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/hubLogin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/index.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/login.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/register.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/passport.config.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../jwtAthenticate/.idea/jwtAthenticate.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loginScreen/.idea/loginScreen.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loginclient/.env" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loginclient/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loginclient/login.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loginclient/passport.config.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loginclient/views/index.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loginclient/views/login.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../loginclient/views/register.ejs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oude test SSE en ts servers/Client-SSE-3/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oude test SSE en ts servers/Client-SSE-3/.idea/Client-SSE-3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oude test SSE en ts servers/Client-SSE-3/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oude test SSE en ts servers/Client-SSE-3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oude test SSE en ts servers/Client-SSE-3/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oude test SSE en ts servers/SSE-client-2/.idea/SSE-client-2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oude test SSE en ts servers/SSE-test-3/.idea/SSE-test-3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oude test SSE en ts servers/example-SSE/.idea/example-SSE.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../satellite-server/src/nodeClient.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../satellite-server/src/nodeClient.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ilhan-test-1" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1Uju5YteIMv5ZcVaNDyNpz24KhM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1d0ff919-54cb-4721-b758-76b1b3d9addd" name="Default Changelist" comment="" />
+      <created>1575882142490</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1575882142490</updated>
+      <workItem from="1575882145055" duration="2669000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.env" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
